@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.bg-cont {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.head {
+  font-family: 'Lobster';
+  min-height: 10vh;
+}
+
+.butt-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  width: 50%;
+  min-height: 10vh;
+}
+
+.repo-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  min-height: 80vh;
+}
+
+.load {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fail {
+  min-height: 80vh;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fail-head {
+  font-family: 'Lobster';
+}
+
+.fail-img {
+  width: 100%;
+}

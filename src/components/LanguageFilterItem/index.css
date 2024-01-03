@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.a-butt {
+  border: solid 1px #0284c7;
+  border-radius: 8px;
+  background-color: transparent;
+  font-family: 'roboto';
+}
+
+.butt {
+  border-style: none;
+  background-color: transparent;
+  font-family: 'roboto';
+}
